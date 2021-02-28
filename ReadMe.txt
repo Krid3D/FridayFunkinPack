@@ -1,5 +1,5 @@
 FridayFunkinPack
 That's in Beta
-I'm Port the assest folder from the zip to the game.
+Inport everything from the zip into the game.
 Boom your done.
 Bye.
